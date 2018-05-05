@@ -1,14 +1,14 @@
 # ArtScope
 
 
-ArtScope was a competion to show an image on analog oscilloscope screen.it has been on May 2011.main peruse of competion is using capability of AVR microcontrollers.
+ArtScope was a competion to show an image on analog oscilloscope screen.it has been on May 2011.main perpuse of competion is using capability of AVR microcontrollers.
 
 
 
 ![Alt text](/Picture/salam.jpg "salam!")
 
 I was chairman of the First National ArtScope Contest and therefore I made a prototype my self. 
-My prototype uses ATMEGA32 and two dac0808 for X and Y axis. Each of them produced proper voltage for each channel of oscilloscope.
+My prototype uses an ATMEGA32 and two dac0808 for X and Y axis. Each of them produced proper voltage for each channel of oscilloscope.
 
 
 ![Alt text](/Picture/schem.jpg "salam!")
