@@ -5,4 +5,4 @@ ArtScope was a competion to show an image on analog osiloscop screen.it hase bee
 
 
 
-![Alt text](/picture/_MG_4239.jpg "salam!")
+![Alt text](/Picture/_MG_4239.jpg "salam!")
