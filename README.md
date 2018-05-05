@@ -1,7 +1,7 @@
 # ArtScope
 
 
-ArtScope was a competion to show an image on analog osiloscop screen.it hase been on may 2011.main perpus of comtion is using capbility of AVR micocontroler.
+ArtScope was a competion to show an image on analog oscilloscope screen.it has been on May 2011.main peruse of competion is using capability of AVR microcontrollers.
 
 
 
